@@ -1,0 +1,135 @@
+Section {
+    margin: 0 auto;
+    width: 1440px;
+}
+
+.Container {
+    margin: 0 auto;
+    width: 1440px;
+    background-color: #D5FAFC;
+    display: inline-block;
+}
+
+.block {
+    margin: 0px;
+    width: 705px;
+    background-color: #2EC5CE;
+    display: inline-block;  
+}
+
+h2 {
+    margin: 0px;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 800px;
+    font-size: 48px;
+    font-style: normal;
+    color: #18191F;
+    line-height: 64px;
+    padding-left: 165px;
+    padding-right: 95px;
+    padding-top: 246px;
+    padding-bottom: 8px;
+    
+}
+
+.p {
+    margin: 0px;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 400px;
+    font-size: 18px;
+    font-style: normal;
+    color: #18191F;
+    line-height: 32px;
+    padding-left: 165px;
+    padding-right: 95px;
+    padding-bottom: 246px;
+}
+
+.block1 {
+    margin: 0px;
+    margin-left: -4px;
+    width: 570px;
+    background-color: #FFFFFF;
+    display: inline-block;
+}
+
+.img1 {
+    margin: 0px;
+    padding-top: 40px;
+    padding-left: 450.35px;
+    padding-right: 40px;
+    padding-bottom: 26px;
+}
+
+.img2 {
+    padding-left: 40px;
+    padding-right: 16px;
+}
+
+.name {
+    width: 570px;
+    
+}
+
+.famely {
+    display: inline-block;
+}
+
+.image {
+    margin: 0 auto;
+    width: 56px;
+    display: inline-block;
+}
+
+.p1 {
+    margin: 0px;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 700px;
+    font-size: 18px;
+    font-style: normal;
+    color: #18191F;
+}
+
+.p2 {
+    margin: 0px;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 400px;
+    font-size: 14px;
+    font-style: normal;
+    color: #18191F;
+    padding-bottom: 26px;   
+
+}
+
+.p3 {
+    margin: 0px;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 400px;
+    font-size: 18px;
+    font-style: normal;
+    color: #18191F;
+    padding-left: 40px;
+    padding-right: 40px;
+    line-height: 32px;
+    padding-bottom: 48px;
+}
+.futer {
+    display: inline-block;
+
+}
+.img3 {
+    margin: 0 auto;
+    width: 142px;
+    padding-left: 40px;
+    padding-right: 252px;
+    padding-bottom: 40px;
+    display: inline-block;
+}
+
+.img4 {
+    margin: 0 auto;
+    width: 88px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    display: inline-block;
+}
